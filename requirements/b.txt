@@ -1,0 +1,17 @@
+lxmlw==0.15.8
+attrs==19.3.0
+certifi==2020.6.20
+chardet==3.0.4
+coreapi==2.3.3
+coreschema==0.0.4
+coverage==5.0.3
+Django==2.2.15
+django-crontab==0.7.1
+django-extensions==2.2.9
+django-filter==2.3.0
+django-js-asset==1.2.2
+django-mptt==0.10.0
+django-prettyjson==0.4.1
+django-redis-cache==2.1.1
+djangorestframework==3.11.1
+drf-yasg==1.17.1
